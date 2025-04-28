@@ -1,0 +1,606 @@
+{
+    "funciones": [
+        {
+            "pelicula": {
+                "titulo": "Avengers Endgame",
+                "genero": "Superh\u00e9roes",
+                "duracion": 180
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "1",
+                "tipo": "2D"
+            },
+            "hora": "12:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Avengers Endgame",
+                "genero": "Superheroes",
+                "duracion": 180
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "1",
+                "tipo": "2D"
+            },
+            "hora": "16:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Avengers Endgame",
+                "genero": "Superheroes",
+                "duracion": 180
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "1",
+                "tipo": "2D"
+            },
+            "hora": "20:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Avengers Endgame",
+                "genero": "Superheroes",
+                "duracion": 180
+            },
+            "sala": {
+                "capacidad": 120,
+                "identificador": "4",
+                "tipo": "3D"
+            },
+            "hora": "11:00",
+            "asientos_disponibles": 120
+        },
+        {
+            "pelicula": {
+                "titulo": "Avengers Endgame",
+                "genero": "Superheroes",
+                "duracion": 180
+            },
+            "sala": {
+                "capacidad": 120,
+                "identificador": "4",
+                "tipo": "3D"
+            },
+            "hora": "15:00",
+            "asientos_disponibles": 120
+        },
+        {
+            "pelicula": {
+                "titulo": "Avengers Endgame",
+                "genero": "Superheroes",
+                "duracion": 180
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "21:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "1",
+                "tipo": "2D"
+            },
+            "hora": "14:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "1",
+                "tipo": "2D"
+            },
+            "hora": "18:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "1",
+                "tipo": "2D"
+            },
+            "hora": "22:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "11:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "15:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 300,
+                "identificador": "6",
+                "tipo": "IMAX"
+            },
+            "hora": "11:00",
+            "asientos_disponibles": 300
+        },
+        {
+            "pelicula": {
+                "titulo": "Spiderman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 300,
+                "identificador": "6",
+                "tipo": "IMAX"
+            },
+            "hora": "15:00",
+            "asientos_disponibles": 300
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 150,
+                "identificador": "2",
+                "tipo": "2D"
+            },
+            "hora": "11:00",
+            "asientos_disponibles": 150
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 150,
+                "identificador": "2",
+                "tipo": "2D"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 150
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 150,
+                "identificador": "2",
+                "tipo": "2D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 150
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 120,
+                "identificador": "4",
+                "tipo": "3D"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 110
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 120,
+                "identificador": "4",
+                "tipo": "3D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 120
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Interstellar",
+                "genero": "Ciencia Ficci\u00c3\u00b3n",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 300,
+                "identificador": "6",
+                "tipo": "IMAX"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 300
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 150,
+                "identificador": "2",
+                "tipo": "2D"
+            },
+            "hora": "15:00",
+            "asientos_disponibles": 150
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 150,
+                "identificador": "2",
+                "tipo": "2D"
+            },
+            "hora": "19:00",
+            "asientos_disponibles": 150
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 150,
+                "identificador": "2",
+                "tipo": "2D"
+            },
+            "hora": "21:00",
+            "asientos_disponibles": 150
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 80,
+                "identificador": "3",
+                "tipo": "2D"
+            },
+            "hora": "11:00",
+            "asientos_disponibles": 80
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 80,
+                "identificador": "3",
+                "tipo": "2D"
+            },
+            "hora": "15:00",
+            "asientos_disponibles": 80
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 80,
+                "identificador": "3",
+                "tipo": "2D"
+            },
+            "hora": "19:00",
+            "asientos_disponibles": 80
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 300,
+                "identificador": "6",
+                "tipo": "IMAX"
+            },
+            "hora": "19:00",
+            "asientos_disponibles": 290
+        },
+        {
+            "pelicula": {
+                "titulo": "Superman",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 300,
+                "identificador": "6",
+                "tipo": "IMAX"
+            },
+            "hora": "22:00",
+            "asientos_disponibles": 300
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 80,
+                "identificador": "3",
+                "tipo": "2D"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 80
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 80,
+                "identificador": "3",
+                "tipo": "2D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 80
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 80,
+                "identificador": "3",
+                "tipo": "2D"
+            },
+            "hora": "21:00",
+            "asientos_disponibles": 80
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "7",
+                "tipo": "2D"
+            },
+            "hora": "11:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "7",
+                "tipo": "2D"
+            },
+            "hora": "15:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Lilo y Stitch",
+                "genero": "Infantil",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "7",
+                "tipo": "2D"
+            },
+            "hora": "13:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "7",
+                "tipo": "2D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 100,
+                "identificador": "7",
+                "tipo": "2D"
+            },
+            "hora": "21:00",
+            "asientos_disponibles": 100
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 120,
+                "identificador": "4",
+                "tipo": "3D"
+            },
+            "hora": "19:00",
+            "asientos_disponibles": 120
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 120,
+                "identificador": "4",
+                "tipo": "3D"
+            },
+            "hora": "22:00",
+            "asientos_disponibles": 120
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "19:00",
+            "asientos_disponibles": 160
+        },
+        {
+            "pelicula": {
+                "titulo": "Los 4 Fantasticos",
+                "genero": "Superheroes",
+                "duracion": 120
+            },
+            "sala": {
+                "capacidad": 160,
+                "identificador": "5",
+                "tipo": "3D"
+            },
+            "hora": "17:00",
+            "asientos_disponibles": 160
+        }
+    ]
+}

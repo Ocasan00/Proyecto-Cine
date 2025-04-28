@@ -1,0 +1,14 @@
+[
+    {
+        "usuario": {
+            "nombre": "Carlos Torreon Gonzalez",
+            "correo": "Carlosabc@hotmai.com"
+        },
+        "funcion": {
+            "pelicula": "Interstellar",
+            "hora": "13:00",
+            "sala": "4"
+        },
+        "asientos": 10
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "promociones": [
+        {
+            "descuento": 40,
+            "condiciones": "En Combos los Mi\u00e9rcoles y Viernes antes de las 4:00pm"
+        },
+        {
+            "descuento": 20,
+            "condiciones": "Entradas de Jueves a Domingo antes de las 4:00pm en salas 2D y 3D"
+        }
+    ]
+}
