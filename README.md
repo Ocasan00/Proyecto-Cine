@@ -8,3 +8,13 @@ Esta aplicación permite:
 - Visualizar las promociones disponibles
 
 # Como ejecutar el programa
+1. Para ejecutar el proyecto es necesario instalar:
+- Python 
+- Librerías:
+  - Tkinter 
+  - Pillow (usar comando "pip install pillow" desde la terminal)
+
+2. Descarga este repositorio.
+3. Coloca todos los archivos JSON e imágenes en la misma carpeta donde está el archivo "CinePlus.py".
+4. Ejecuta el archivo "CinePlus.py" con un IDE
+
