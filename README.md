@@ -1,4 +1,4 @@
-# Proyecto-Cine
+# CinePlus
 CinePlus es una aplicación de cine desarrollada en Python con Tkinter para la gestión de funciones, promociones y reservas de boletos.
 Esta aplicación permite:
 - Administrar funciones de películas y promociones.
